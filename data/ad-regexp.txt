@@ -1,9 +1,15 @@
 ### CrazyNewbieCoder: IP-Block
 ### Description: Domains (regexp) to block.
 ### License: MIT
-### Updated: 2021-02-10 18:48:14
+### Updated: 2021-02-10 21:31:34
 
 ### GOOGLE
 0.0.0.0 (\.|^)doubleclick\.net$
 0.0.0.0 (\.|^)googletagmanager\.com$
 0.0.0.0 (\.|^)googletagservices\.com$
+
+### AD Network
+0.0.0.0 (\.|^)admixer\.net$
+
+### Counters
+0.0.0.0 (\.|^)tns-counter\.ru$
