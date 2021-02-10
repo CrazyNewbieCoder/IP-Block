@@ -52,3 +52,5 @@
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.kaspersky.com
 0.0.0.0 fastcounter.linkexchange.net
+0.0.0.0 inetlog.ru
+0.0.0.0 iplogger.ru
