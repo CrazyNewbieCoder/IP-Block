@@ -4,7 +4,13 @@
 ### Updated: 2021-02-10 21:31:42
 
 ### GOOGLE
-
+0.0.0.0 marketingplatform.google.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 wintricksbanner.googlepages.com
+0.0.0.0 affiliate.googleusercontent.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 pagead-googlehosted.l.google.com
 
 ### YANDEX
 0.0.0.0 an.yandex.ru
