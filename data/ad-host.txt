@@ -40,3 +40,15 @@
 
 ### Counters
 0.0.0.0 counter.yadro.ru
+0.0.0.0 mycounter.ua
+0.0.0.0 musiccounter.ru
+0.0.0.0 linkcounter.com
+0.0.0.0 counter.aport.ru
+0.0.0.0 ucounter.ucoz.net
+0.0.0.0 counter.rambler.ru
+0.0.0.0 counter.mojgorod.ru
+0.0.0.0 get.mycounter.com.ua
+0.0.0.0 scripts.mycounter.com.ua
+0.0.0.0 counter.mirohost.net
+0.0.0.0 counter.kaspersky.com
+0.0.0.0 fastcounter.linkexchange.net
