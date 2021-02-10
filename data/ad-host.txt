@@ -25,5 +25,12 @@
 0.0.0.0 grade.market.yandex.ru
 0.0.0.0 redirect.appmetrica.yandex.ru
 
+### MAIL.RU
+0.0.0.0 ad.mail.ru
+0.0.0.0 top.mail.ru
+0.0.0.0 top5.mail.ru
+0.0.0.0 1l-view.mail.ru
+0.0.0.0 mail.radar.imgsmail.ru
+
 ### Counters
 0.0.0.0 counter.yadro.ru
