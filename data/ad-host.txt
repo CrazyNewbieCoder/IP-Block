@@ -1,0 +1,14 @@
+### CrazyNewbieCoder: IP-Block
+### Description: Domains to block.
+### License: MIT
+### Updated: 2021-02-10 21:31:42
+
+### GOOGLE
+
+
+### YANDEX
+0.0.0.0 mc.yandex.ru
+0.0.0.0 informer.yandex.ru
+
+### Counters
+0.0.0.0 counter.yadro.ru
