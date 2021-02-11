@@ -105,5 +105,4 @@
 ### Other
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 metrics.aviasales.ru
-0.0.0.0 dr.habracdn.net
 0.0.0.0 static.criteo.net
