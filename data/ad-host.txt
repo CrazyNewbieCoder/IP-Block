@@ -11,6 +11,7 @@
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 adservice.google.com
 
 ### YANDEX
 0.0.0.0 an.yandex.ru
@@ -106,3 +107,4 @@
 0.0.0.0 ad.3dnews.ru
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 static.criteo.net
+0.0.0.0 mc.webvisor.org
