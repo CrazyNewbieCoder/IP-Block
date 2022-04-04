@@ -1,7 +1,7 @@
 ### CrazyNewbieCoder: IP-Block
 ### Description: Domains (regexp) to block.
 ### License: MIT
-### Updated: 2021-02-17 18:44:32
+### Updated: 2022-04-04 16:00:00
 
 ### GOOGLE
 0.0.0.0 (\.|^)doubleclick\.net$
@@ -10,6 +10,9 @@
 
 ### AD Network
 0.0.0.0 (\.|^)admixer\.net$
+
+### AD Mobile Network
+0.0.0.0 (\.|^)adcolony\.com$
 
 ### Counters
 0.0.0.0 (\.|^)tns-counter\.ru$
