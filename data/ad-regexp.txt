@@ -4,15 +4,15 @@
 ### Updated: 2022-04-04 16:00:00
 
 ### GOOGLE
-0.0.0.0 (\.|^)doubleclick\.net$
-0.0.0.0 (\.|^)googletagmanager\.com$
-0.0.0.0 (\.|^)googletagservices\.com$
+(\.|^)doubleclick\.net$
+(\.|^)googletagmanager\.com$
+(\.|^)googletagservices\.com$
 
 ### AD Network
-0.0.0.0 (\.|^)admixer\.net$
+(\.|^)admixer\.net$
 
 ### AD Mobile Network
-0.0.0.0 (\.|^)adcolony\.com$
+(\.|^)adcolony\.com$
 
 ### Counters
-0.0.0.0 (\.|^)tns-counter\.ru$
+(\.|^)tns-counter\.ru$
