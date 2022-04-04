@@ -108,3 +108,6 @@
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 static.criteo.net
 0.0.0.0 mc.webvisor.org
+
+### Mobile AD Networks
+0.0.0.0 events3alt.adcolony.com
