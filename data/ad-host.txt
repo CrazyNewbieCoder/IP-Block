@@ -83,6 +83,7 @@
 0.0.0.0 tools.spylog.ru
 0.0.0.0 openstat.net
 0.0.0.0 ad.liveinternet.ru
+0.0.0.0 st.top100.ru
 
 ### AD Networks
 0.0.0.0 popunder.ru
