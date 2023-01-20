@@ -1,7 +1,7 @@
 ### CrazyNewbieCoder: IP-Block
 ### Description: Domains to block.
 ### License: MIT
-### Updated: 2022-04-05 18:30:00
+### Updated: 2023-01-20 12:00:00
 
 ### GOOGLE
 0.0.0.0 marketingplatform.google.com
@@ -12,6 +12,7 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 tpc.googlesyndication.com
 
 ### YANDEX
 0.0.0.0 an.yandex.ru
@@ -58,6 +59,7 @@
 0.0.0.0 log.strm.yandex.ru
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 matchid-production.adfox.yandex.ru
+0.0.0.0 yastatic.net
 
 ### MAIL.RU
 0.0.0.0 ad.mail.ru
@@ -108,6 +110,11 @@
 0.0.0.0 adriver.ru
 0.0.0.0 pb.adriver.ru
 0.0.0.0 px.adhigh.net
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.admixer.net
+0.0.0.0 relap.io
 
 ### Other
 0.0.0.0 ad.3dnews.ru
