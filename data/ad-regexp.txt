@@ -16,3 +16,6 @@
 
 ### Counters
 (\.|^)tns-counter\.ru$
+
+### AD Unity3d
+\.*\.unityads\.unity3d\.com$
