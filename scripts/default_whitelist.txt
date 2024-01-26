@@ -1,0 +1,81 @@
+# Список доменов для whitelist по умолчанию
+# Обновлен: 2024-01-26
+# Кол-во доменов: 60
+
+# -= PROTON Services =-
+proton.me
+www.proton.me
+account.proton.me
+
+# -= CDNs =-
+jsdelivr.com
+www.jsdelivr.com
+cdn.jsdelivr.net
+unpkg.com
+www.unpkg.com
+
+# -= GOOGLE Services =-
+google.com
+www.google.com
+google.com.ua
+www.google.com.ua
+docs.google.com
+fonts.googleapis.com
+fonts.gstatic.com
+mail.google.com
+play.google.com
+translate.google.com
+youtube.com
+www.youtube.com
+
+# -= APPLE Services =-
+apple.com
+weather-analytics-events.apple.com
+
+# -= GITHub =-
+github.com
+
+# -= Software =-
+ffastrans.com
+www.ffastrans.com
+
+# -= Crypto =-
+freebitco.in
+fbtc-audio.freebitco.in
+captchas.freebitco.in
+static1.freebitco.in
+static6.freebitco.in
+sirv.freebitco.in
+nocookie.freebitco.in
+www.mycloudwallet.com
+login-api.mycloudwallet.com
+wax-on-api.mycloudwallet.com
+idm-api.mycloudwallet.com
+wax-aa.wombat.app
+eos-rpc.wombat.app
+wax-rpc.wombat.app
+dungeon.wombat.app
+api.getwombat.io
+blend.wombat.app
+cdn.wombat.app
+staking.wombat.app
+api.staking.wombat.app
+api.dungeon.wombat.app
+log.dungeon.wombat.app
+mp.dungeon.wombat.app
+
+# -= WIKIPEDIA =-
+wikipedia.org
+www.wikipedia.org
+en.wikipedia.org
+www.en.wikipedia.org
+uk.wikipedia.org
+www.uk.wikipedia.org
+ru.wikipedia.org
+www.ru.wikipedia.org
+
+# -= Other =-
+duckduckgo.com
+www.duckduckgo.com
+stackoverflow.com
+www.stackoverflow.com

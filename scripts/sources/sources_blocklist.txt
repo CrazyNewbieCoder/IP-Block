@@ -1,0 +1,13 @@
+# Source: https://oisd.nl/setup/pihole
+https://big.oisd.nl
+https://nsfw.oisd.nl
+
+# Source: https://github.com/hectorm/hmirror
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-rus/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/urlhaus/list.txt
+
+# Other
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://raw.githubusercontent.com/pantsufan/BlockAds/main/hosts
