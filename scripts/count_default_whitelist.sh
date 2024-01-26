@@ -3,4 +3,4 @@
 
 # Считает, сколько доменов в файле default_whitelist.txt
 
-sed -e '/#/d' -e '/^$/d' -e '/[[:space:]]/d' default_whitelist.txt | uniq | wc -l
+sed -e '/#/d' -e '/^$/d' -e '/[[:space:]]/d' ./sources/default_whitelist.txt | uniq | wc -l
