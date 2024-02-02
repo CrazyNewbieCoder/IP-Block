@@ -8,6 +8,9 @@ https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/easyprivacy/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/urlhaus/list.txt
 
+# Source: https://github.com/guardicore/labs_campaigns/tree/master/Autodiscover
+https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
+
 # Other
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/pantsufan/BlockAds/main/hosts
