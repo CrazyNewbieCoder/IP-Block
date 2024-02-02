@@ -18,6 +18,6 @@ fi
 
 while IFS= read -r domain; do
     if ! [[ $domain =~ ^([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$ ]]; then
-        echo -e "${RED}$domain is a valid domain.${NC}"
+        echo -e "${RED}$domain - не правильне ім'я домену.${NC}"
     fi
 done <"$1"
