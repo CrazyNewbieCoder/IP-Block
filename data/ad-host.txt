@@ -121,6 +121,15 @@
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 static.criteo.net
 0.0.0.0 mc.webvisor.org
+0.0.0.0 dmp.one
+0.0.0.0 manalyticshub.com
+0.0.0.0 whitesaas.com
+0.0.0.0 profilepxl.ru
+0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 onef.pro
+0.0.0.0 acint.net
+0.0.0.0 data-leads.ru
+0.0.0.0 pixel.data-leads.ru
 
 ### Mobile AD Networks
 0.0.0.0 events3alt.adcolony.com
